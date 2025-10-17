@@ -3,7 +3,7 @@ description: "Book"
 url: "https://book.overlake.bio" # your site URL
 baseurl: ""
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: water
 
 # Enable search (optional)
