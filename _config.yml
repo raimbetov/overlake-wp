@@ -18,3 +18,7 @@ highlighter: rouge
 
 # Math support
 math: mathjax
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
