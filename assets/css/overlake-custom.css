@@ -38,7 +38,7 @@
 
 .site-header .overlake-logo {
     position: absolute;
-    right: 1.5rem; /* Distance from right edge - adjust as needed */
+    right: 3.5rem; /* Distance from right edge - adjust as needed */
     top: 50%;
     transform: translateY(-50%); /* Centers vertically */
     margin: 0;

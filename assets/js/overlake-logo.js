@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const logoDiv = document.createElement('div');
             logoDiv.className = 'overlake-logo';
             logoDiv.innerHTML = `
-                <div class="overlake-main"><span class="overlake-lake">book.</span>over<span class="overlake-lake">lake</span></div>
+                <div class="overlake-main"><span class="overlake-lake">wp.</span>over<span class="overlake-lake">lake</span></div>
                 <div class="overlake-bio">.bio</div>
             `;
 

@@ -1,6 +1,6 @@
-title: "overlake.bio/book"
+title: "overlake.bio/whitepaper"
 description: "Book"
-url: "https://book.overlake.bio" # your site URL
+url: "https://wp.overlake.bio" # your site URL
 baseurl: ""
 
 remote_theme: just-the-docs/just-the-docs
